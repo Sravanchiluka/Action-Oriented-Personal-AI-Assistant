@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<defs>
+  <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#12263f" />
+    <stop offset="100%" stop-color="#0f766e" />
+  </linearGradient>
+</defs>
+<rect width="1080" height="1080" fill="url(#bg)" rx="44" />
+<circle cx="920" cy="160" r="120" fill="rgba(124,247,197,0.18)" />
+<text x="40" y="42" fill="#7cf7c5" font-size="24" font-family="Segoe UI, sans-serif">AI generated concept</text>
+<text x='40' y='80' fill='#eef6ff' font-size='24' font-family='Segoe UI, sans-serif'>What a colorful celebration!  Here&#x27;s a</text><text x='40' y='118' fill='#eef6ff' font-size='24' font-family='Segoe UI, sans-serif'>creative image idea for a social media</text><text x='40' y='156' fill='#eef6ff' font-size='24' font-family='Segoe UI, sans-serif'>post about Happy Holi:  **Image</text><text x='40' y='194' fill='#eef6ff' font-size='24' font-family='Segoe UI, sans-serif'>Prompt:** &quot;Colors of Joy&quot;</text><text x='40' y='232' fill='#eef6ff' font-size='24' font-family='Segoe UI, sans-serif'>**Concept:** Create a whimsical image</text><text x='40' y='270' fill='#eef6ff' font-size='24' font-family='Segoe UI, sans-serif'>featuring a person (or a cartoon</text><text x='40' y='308' fill='#eef6ff' font-size='24' font-family='Segoe UI, sans-serif'>character) surrounded by vibrant</text>
+</svg>
